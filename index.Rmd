@@ -37,13 +37,13 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 | 3 | 09.10.2025 | Scientific uncertainty and trust in science | Mata | | |
 | 4 | 16.10.2025 | Guidelines for science communication | Mata | | |
 | 5 | 23.10.2025 | Science communication gone wrong | Mata | |  |
-| 6 | 30.10.2025 | Practical: Knowledge and Data Visualization | Hil/Lachenmeier | | B |
-| 7 | 06.11.2025 | Practical: Yellow Chapter – Data | Hil/Lachenmeier | | C |
-| 8 | 13.11.2025 | Practical: Multidimensional Line Graph | Hil/Lachenmeier | | D |
-| 9 | 20.11.2025 | Practical: Elements | Hil/Lachenmeier | | E |
-|10 | 27.11.2025 | Practical: Modular Information Design | Hil/Lachenmeier | | F |
-|11 | 04.12.2025 | Practical: Every dot has an identity | Hil/Lachenmeier | | G |
-|12 | 11.12.2025 | Practical: Modular thinking mindset | Hil/Lachenmeier | | H |
+| 6 | 30.10.2025 | Practical: Knowledge and Data Visualization | Hil/Lachenmeier | | A |
+| 7 | 06.11.2025 | Practical: Yellow Chapter – Data | Hil/Lachenmeier | | B |
+| 8 | 13.11.2025 | Practical: Multidimensional Line Graph | Hil/Lachenmeier | | C |
+| 9 | 20.11.2025 | Practical: Elements | Hil/Lachenmeier | | D |
+|10 | 27.11.2025 | Practical: Modular Information Design | Hil/Lachenmeier | | E |
+|11 | 04.12.2025 | Practical: Every dot has an identity | Hil/Lachenmeier | | F |
+|12 | 11.12.2025 | Practical: Modular thinking mindset | Hil/Lachenmeier | | G |
 |13 | 18.12.2025 | [Exam](exam.html) | |
 :::
 
@@ -69,19 +69,18 @@ At the end of the semester, a multiple-choice exam will test your understanding 
 
 Practical exercises will make up the majority of your grade. These exercises will apply the principles learned in class to hands-on tasks. Both the timely submission and the quality of your work will be critical in determining a pass/fail for each exercise. Exercises should be submitted via [ADAM](https://adam.unibas.ch/goto_adam_crs_1787425.html).
 
-*Exercise A (11%)*
+<!-- *Exercise A (11%)* -->
 
-This exercise involves a brief reflection task. You will be asked to critically assess an example of science communication of your choice (e.g., a news article, blog post, video, podcast, etc.) based on what you learned in the course. Your reflection, which should not exceed 300 words, should address the following:
-What is the main message of the communication?
-Who is the target audience?
-What are the strengths and weaknesses?
-How could it be improved?
-Submit your reflection including a link to the example of your choice through ADAM by **31. Oct 2025, 23:59**.
+<!-- This exercise involves a brief reflection task. You will be asked to critically assess an example of science communication of your choice (e.g., a news article, blog post, video, podcast, etc.) based on what you learned in the course. Your reflection, which should not exceed 300 words, should address the following: -->
+<!-- What is the main message of the communication? -->
+<!-- Who is the target audience? -->
+<!-- What are the strengths and weaknesses? -->
+<!-- How could it be improved? -->
+<!-- Submit your reflection including a link to the example of your choice through ADAM by **31. Oct 2025, 23:59**. -->
 
-*Exercises B-H (7 exercises, 7% each)*
+*Exercises A-G (6 exercises, 10% each)*
 
 During each session, you will complete a task involving manual drawing (materials will be provided), followed by a brief homework assignment. The goal is to develop an understanding of visualization principles through active creation and to learn how to critically evaluate visualizations. "Drawing by hand is thinking" is an approach that combines creative and analytical thinking: By drawing manually, you can develop a deeper understanding that is independent of digital tools and applicable in studies, research, and practice. For each session, you will have 12 hours to upload the in-class task (in case you have to miss the session and cannot do it in class) and 6 days to submit the homework assignment. Submit your drawings as a JPEG or PNG file.
-
 
 # Recommended readings
 
