@@ -36,7 +36,7 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 | 2 | 25.10.2025 | Models and elements of science communication | Mata | | |
 | 3 | 09.10.2025 | Scientific uncertainty and trust in science | Mata | | |
 | 4 | 16.10.2025 | Guidelines for science communication | Mata | | |
-| 5 | 23.10.2025 | Science communication gone wrong | Mata |  | A |
+| 5 | 23.10.2025 | Science communication gone wrong | Mata | |  |
 | 6 | 30.10.2025 | Practical: Knowledge and Data Visualization | Hil/Lachenmeier | | B |
 | 7 | 06.11.2025 | Practical: Yellow Chapter – Data | Hil/Lachenmeier | | C |
 | 8 | 13.11.2025 | Practical: Multidimensional Line Graph | Hil/Lachenmeier | | D |
@@ -76,7 +76,7 @@ What is the main message of the communication?
 Who is the target audience?
 What are the strengths and weaknesses?
 How could it be improved?
-Submit your reflection including a link to the example of your choice through ADAM by **31. Oct 2024, 11:00**.
+Submit your reflection including a link to the example of your choice through ADAM by **31. Oct 2025, 23:59**.
 
 *Exercises B-H (7 exercises, 7% each)*
 
