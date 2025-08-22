@@ -1,11 +1,13 @@
 ---
 title: "Science Communication"
 description: |
-  *Science Communication* ([73168-01](https://vorlesungsverzeichnis.unibas.ch/de/home?id=287275)), FS24, University of Basel
+  *Science Communication* ([73168-01](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=293356)), HS25, University of Basel
   
   Instructors: [Darjan Hil](https://www.superdot.studio/darjan-hil-en), [Nicole Lachenmeier](https://www.superdot.studio/nicole-lachenmeier-de), and [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/)
   
   Last updated: `r format(Sys.time(), "%a %b %d %X %Y")`
+  
+  *** WEBSITE UNDER CONSTUCTION ***
   
 site: distill::distill_website
 ---
@@ -30,19 +32,19 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 ::: l-body
 | # | Date     | Topic                         | Instructor(s) | Slides | Exercise |
 |---| ---------|-------------------------------|--------| --------| --------|
-| 1 | 19.09.2024 | What is science communication? | Mata | [pdf](presentations/SCICOM_session1.pdf)| |
-| 2 | 03.10.2024 | Models and elements of science communication | Mata | [pdf](presentations/SCICOM_session2.pdf)| |
-| 3 | 10.10.2024 | Scientific uncertainty and trust in science | Mata | [pdf](presentations/SCICOM_session3.pdf)| |
-| 4 | 17.10.2024 | Guidelines for science communication | Mata |[pdf](presentations/SCICOM_session4.pdf) | |
-| 5 | 24.10.2024 | Science communication gone wrong | Mata | [pdf](presentations/SCICOM_session5.pdf) | A |
-| 6 | 31.10.2024 | Practical: Knowledge and Data Visualization | Hil/Lachenmeier | [pdf](presentations/SCICOM_session6.pdf) | B |
-| 7 | 07.11.2024 | Practical: Yellow Chapter – Data | Hil/Lachenmeier | [pdf](presentations/SCICOM_session7.pdf) | C |
-| 8 | 14.11.2024 | Practical: Multidimensional Line Graph | Hil/Lachenmeier | [pdf](presentations/SCICOM_session8.pdf) | D |
-| 9 | 21.11.2024 | Practical: Elements | Hil/Lachenmeier | [pdf](presentations/SCICOM_session9.pdf) | E |
-|10 | 28.11.2024 | Practical: Modular Information Design | Hil/Lachenmeier | | F |
-|11 | 05.12.2024 | Practical: Every dot has an identity | Hil/Lachenmeier | [pdf](presentations/SCICOM_session11.pdf) | G |
-|12 | 12.12.2024 | Practical: Modular thinking mindset | Hil/Lachenmeier | [pdf](presentations/SCICOM_session12.pdf) | H |
-|13 | 19.12.2024 | [Exam](exam.html) | |
+| 1 | 18.09.2025 | What is science communication? | Mata | | |
+| 2 | 25.10.2025 | Models and elements of science communication | Mata | | |
+| 3 | 09.10.2025 | Scientific uncertainty and trust in science | Mata | | |
+| 4 | 16.10.2025 | Guidelines for science communication | Mata | | |
+| 5 | 23.10.2025 | Science communication gone wrong | Mata |  | A |
+| 6 | 30.10.2025 | Practical: Knowledge and Data Visualization | Hil/Lachenmeier | | B |
+| 7 | 06.11.2025 | Practical: Yellow Chapter – Data | Hil/Lachenmeier | | C |
+| 8 | 13.11.2025 | Practical: Multidimensional Line Graph | Hil/Lachenmeier | | D |
+| 9 | 20.11.2025 | Practical: Elements | Hil/Lachenmeier | | E |
+|10 | 27.11.2025 | Practical: Modular Information Design | Hil/Lachenmeier | | F |
+|11 | 04.12.2025 | Practical: Every dot has an identity | Hil/Lachenmeier | | G |
+|12 | 11.12.2025 | Practical: Modular thinking mindset | Hil/Lachenmeier | | H |
+|13 | 18.12.2025 | [Exam](exam.html) | |
 :::
 
 # Course description and learning goals
