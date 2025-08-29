@@ -33,7 +33,7 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 | # | Date     | Topic                         | Instructor(s) | Slides | Exercise |
 |---| ---------|-------------------------------|--------| --------| --------|
 | 1 | 18.09.2025 | What is science communication? | Mata | | |
-| 2 | 25.10.2025 | Models and elements of science communication | Mata | | |
+| 2 | 25.09.2025 | Models and elements of science communication | Mata | | |
 | 3 | 09.10.2025 | Scientific uncertainty and trust in science | Mata | | |
 | 4 | 16.10.2025 | Guidelines for science communication | Mata | | |
 | 5 | 23.10.2025 | Science communication gone wrong | Mata | |  |
@@ -55,7 +55,7 @@ This course aims to give a broad introduction to science communication. By compl
 - Learn to develop visual communication strategies for science communication
 - Learn to critically evaluate and reflect on science communication
 
-This website is designed to help course participants get an overview of the course and the course slides (slides will be uploaded shortly after each session). Additionally, an [FAQ](https://adam.unibas.ch/goto_adam_crs_1787425.html) forum is available on ADAM.  
+This website is designed to help course participants get an overview of the course and the course slides (slides will be uploaded shortly after each session). Additionally, a [FORUM](https://adam.unibas.ch/goto_adam_crs_1995734.html) is available on ADAM.  
 
 # Course grading
 
