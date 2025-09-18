@@ -7,8 +7,6 @@ description: |
   
   Last updated: `r format(Sys.time(), "%a %b %d %X %Y")`
   
-  *** WEBSITE UNDER CONSTUCTION ***
-  
 site: distill::distill_website
 ---
 
