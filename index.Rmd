@@ -34,7 +34,7 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 | 2 | 25.09.2025 | Models and elements of science communication | Mata | [pdf](presentations/SCICOM_session2.pdf) | |
 | 3 | 09.10.2025 | Scientific uncertainty and trust in science | Mata | [pdf](presentations/SCICOM_session3.pdf) | |
 | 4 | 16.10.2025 | Guidelines for science communication | Mata | [pdf](presentations/SCICOM_session4.pdf) | |
-| 5 | 23.10.2025 | Science communication gone wrong | Mata | |  |
+| 5 | 23.10.2025 | Science communication gone wrong | Mata | [pdf](presentations/SCICOM_session5.pdf)  |  |
 | 6 | 30.10.2025 | Why do we visualize? | Hil/Lachenmeier | | A |
 | 7 | 06.11.2025 | Structured content | Hil/Lachenmeier | |  |
 | 8 | 13.11.2025 | Content dimensions and categorization | Hil/Lachenmeier | | B |
