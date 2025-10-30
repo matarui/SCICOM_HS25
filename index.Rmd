@@ -35,7 +35,7 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 | 3 | 09.10.2025 | Scientific uncertainty and trust in science | Mata | [pdf](presentations/SCICOM_session3.pdf) | |
 | 4 | 16.10.2025 | Guidelines for science communication | Mata | [pdf](presentations/SCICOM_session4.pdf) | |
 | 5 | 23.10.2025 | Science communication gone wrong | Mata | [pdf](presentations/SCICOM_session5.pdf)  |  |
-| 6 | 30.10.2025 | Why do we visualize? | Hil/Lachenmeier | | A |
+| 6 | 30.10.2025 | Why do we visualize? | Hil/Lachenmeier | [pdf](presentations/SCICOM_session6.pdf) | A |
 | 7 | 06.11.2025 | Structured content | Hil/Lachenmeier | |  |
 | 8 | 13.11.2025 | Content dimensions and categorization | Hil/Lachenmeier | | B |
 | 9 | 20.11.2025 | Networks and relationships | Hil/Lachenmeier | | C |
@@ -70,7 +70,7 @@ Practical exercises will apply the principles learned in class to hands-on tasks
 
 *Exercises A-E (5 assignments, 9% each)*
 
-During each session, you will complete a mini warm-up task involving manual drawing (materials will be provided), which you will be able to use for your homework assignment. The goal is to develop an understanding of visualization principles through active creation and to learn how to critically evaluate visualizations. "Drawing by hand is thinking" is an approach that combines creative and analytical thinking: By drawing manually, you can develop a deeper understanding that is independent of digital tools and applicable in studies, research, and practice. For each of the 5 exercise assignments, you will have 6 days to submit the homework assignment. Please make sure to scan your drawings [well](photos/good_scan.jpg) and submit them as a JPEG or PNG file. [Poorly scanned](photos/bad_scan.jpg) sketches or PDF files will not be accepted.
+During each session, you will complete a mini warm-up task involving manual drawing (materials will be provided), which you will be able to use for your homework assignment. The goal is to develop an understanding of visualization principles through active creation and to learn how to critically evaluate visualizations. "Drawing by hand is thinking" is an approach that combines creative and analytical thinking: By drawing manually, you can develop a deeper understanding that is independent of digital tools and applicable in studies, research, and practice. For each of the 5 exercise assignments, you will have 6 days to submit the homework assignment (see ADAM for the specific deadline). Please make sure to scan your drawings [well](photos/good_scan.jpg) and submit them as a JPEG or PNG file. [Poorly scanned](photos/bad_scan.jpg) sketches or PDF files will not be accepted.
 
 
 <!-- *Exercise A (11%)* -->
