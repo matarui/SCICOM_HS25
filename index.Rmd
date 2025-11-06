@@ -36,7 +36,7 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 | 4 | 16.10.2025 | Guidelines for science communication | Mata | [pdf](presentations/SCICOM_session4.pdf) | |
 | 5 | 23.10.2025 | Science communication gone wrong | Mata | [pdf](presentations/SCICOM_session5.pdf)  |  |
 | 6 | 30.10.2025 | Why do we visualize? | Hil/Lachenmeier | [pdf](presentations/SCICOM_session6.pdf) | A |
-| 7 | 06.11.2025 | Structured content | Hil/Lachenmeier | |  |
+| 7 | 06.11.2025 | Structured content | Hil/Lachenmeier | [pdf](presentations/SCICOM_session7.pdf)|  |
 | 8 | 13.11.2025 | Content dimensions and categorization | Hil/Lachenmeier | | B |
 | 9 | 20.11.2025 | Networks and relationships | Hil/Lachenmeier | | C |
 |10 | 27.11.2025 | The identity of a dot | Hil/Lachenmeier | | D |
