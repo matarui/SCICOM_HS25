@@ -42,7 +42,7 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 |10 | 27.11.2025 | The identity of a dot | Hil/Lachenmeier | | D |
 |11 | 04.12.2025 | Visual language and cultural context | Hil/Lachenmeier | | E |
 |12 | 11.12.2025 | Areas and hierachies | Hil/Lachenmeier | |  |
-|13 | 18.12.2025 | [Exam](exam.html) | |
+|13 | 18.12.2025 | [Exam](exam.html) | [info](presentations/exam_info.pdf)||
 :::
 
 # Course description and learning goals
