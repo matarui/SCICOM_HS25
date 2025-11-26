@@ -39,7 +39,7 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 | 7 | 06.11.2025 | Structured content | Hil/Lachenmeier | [pdf](presentations/SCICOM_session7.pdf)|  |
 | 8 | 13.11.2025 | Content dimensions and categorization [Part1](https://streamyard.com/e/5wgav7ecfyr2) [Part2](https://streamyard.com/e/iij89npgp5jk) | Hil/Lachenmeier | [pdf](presentations/SCICOM_session8.pdf)| B |
 | 9 | 20.11.2025 | Networks and relationships | Hil/Lachenmeier |[pdf](presentations/SCICOM_session9.pdf) | C |
-|10 | 27.11.2025 | The identity of a dot | Hil/Lachenmeier | | D |
+|10 | 27.11.2025 | The identity of a dot | Hil/Lachenmeier | [pdf](presentations/SCICOM_session10.pdf)| D |
 |11 | 04.12.2025 | Visual language and cultural context | Hil/Lachenmeier | | E |
 |12 | 11.12.2025 | Areas and hierachies | Hil/Lachenmeier | |  |
 |13 | 18.12.2025 | [Exam](exam.html) | [info](presentations/exam_info.pdf)||
