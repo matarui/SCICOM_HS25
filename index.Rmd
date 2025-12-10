@@ -41,7 +41,7 @@ Sessions take place Thursdays, 8.15-9.45, Biozentrum, Hörsaal U1.131.
 | 9 | 20.11.2025 | Networks and relationships | Hil/Lachenmeier |[pdf](presentations/SCICOM_session9.pdf) | C |
 |10 | 27.11.2025 | The identity of a dot | Hil/Lachenmeier | [pdf](presentations/SCICOM_session10.pdf)| D |
 |11 | 04.12.2025 | Visual language and cultural context | Hil/Lachenmeier | [pdf](presentations/SCICOM_session11.pdf) | E |
-|12 | 11.12.2025 | Areas and hierachies | Hil/Lachenmeier | |  |
+|12 | 11.12.2025 | Areas and hierachies | Hil/Lachenmeier | [pdf](presentations/SCICOM_session12.pdf) |  |
 |13 | 18.12.2025 | [Exam](exam.html) | | [info](presentations/exam_info.pdf)|
 :::
 
